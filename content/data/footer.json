@@ -4,12 +4,12 @@
         "altText": "Logo light",
         "type": "ImageBlock"
     },
-    "text": "A description of your brand",
+    "text": "**PGH Consultancy**\n",
     "primaryLinks": {
-        "title": "Product",
+        "title": "SERVICES",
         "links": [
             {
-                "label": "Features",
+                "label": "Packages",
                 "altText": "Features page",
                 "url": "/",
                 "icon": "arrowRight",
@@ -18,7 +18,7 @@
                 "type": "Link"
             },
             {
-                "label": "Pricing",
+                "label": "Consulting",
                 "url": "/pricing",
                 "icon": "arrowRight",
                 "iconPosition": "right",
@@ -26,7 +26,7 @@
                 "type": "Link"
             },
             {
-                "label": "Documentation",
+                "label": "Case Studies",
                 "url": "/",
                 "icon": "arrowRight",
                 "iconPosition": "right",
@@ -40,7 +40,7 @@
         "title": "Company",
         "links": [
             {
-                "label": "Careers",
+                "label": "About Us",
                 "altText": "careers page",
                 "url": "/careers",
                 "icon": "arrowRight",
@@ -62,25 +62,25 @@
     "socialLinks": [
         {
             "altText": "GitHub link",
-            "url": "https://github.com/netlify",
+            "url": "https://github.com/pghconsultancy",
             "icon": "github",
             "type": "Social"
         },
         {
             "altText": "Twitter link",
-            "url": "https://twitter.com/netlify",
+            "url": "https://twitter.com/pghconsultancy",
             "icon": "twitter",
             "type": "Social"
         },
         {
             "altText": "LinkedIn link",
-            "url": "https://www.linkedin.com/company/netlify",
+            "url": "https://www.linkedin.com/company/pghconsultancy",
             "icon": "linkedin",
             "type": "Social"
         },
         {
             "altText": "Email link",
-            "url": "/",
+            "url": "mailto:shailesh@pghconsultancy.com",
             "icon": "mail",
             "type": "Social"
         }
@@ -103,7 +103,7 @@
             "type": "Link"
         }
     ],
-    "copyrightText": "Powered by [Netlify](https://www.netlify.com/)\n",
+    "copyrightText": "Powered by **Octon Solutions**\n",
     "colors": "bg-dark-fg-light",
     "type": "Footer"
 }
