@@ -751,6 +751,6 @@ seo:
     full-time experts.
   socialImage: /images/main-hero.jpg
   type: Seo
-  addTitleSuffix: true
+  addTitleSuffix: false
 type: PageLayout
 ---
