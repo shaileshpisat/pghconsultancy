@@ -745,7 +745,10 @@ sections:
     type: GenericSection
 seo:
   metaTitle: Home - PGH Consultancy
-  metaDescription: This demo site is built with Netlify Create.
+  metaDescription: >-
+    Helping SMEs and startups achieve 3X more velocity in just 90 days using my
+    tailored framework for managing project without the need for hiring
+    full-time experts.
   socialImage: /images/main-hero.jpg
   type: Seo
 type: PageLayout
