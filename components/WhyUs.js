@@ -4,20 +4,20 @@
   export default function WhyUs() {
     const services = [
       {
-        title: "Project Planning",
-        description: "Comprehensive project planning and strategy development"
+        title: "Tailored Approach",
+        description: "No one-size-fits-all solutions—only what works for you."
       },
       {
-        title: "Risk Management",
-        description: "Identify and mitigate potential project risks"
+        title: "IT Background",
+        description: "14+ years of experience working on technology backed Projects."
       },
       {
-        title: "Team Leadership",
-        description: "Expert guidance in team management and leadership"
+        title: "Team Synergy",
+        description: "Co-ordinating IT & non-IT teams to achieve maximum productivity."
       },
       {
-        title: "Process Optimization",
-        description: "Streamline your project management processes"
+        title: "Proven Results",
+        description: "Helped IT solution providers scale faster with lean teams."
       }
     ];
   
