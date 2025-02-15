@@ -21,10 +21,10 @@
           <div className="mb-7">
             <h4 className="text-lg font-semibold mb-4">Quick Links</h4>
             <ul className="space-y-2">
-              <li><a href="#why-us" className="hover:text-blue-200">Why Us</a></li>
-              <li><a href="#services" className="hover:text-blue-200">Services</a></li>
-              <li><a href="#case-studies" className="hover:text-blue-200">Case Studies</a></li>
-              <li><a href="#contact" className="hover:text-blue-200">Contact</a></li>
+              <li><a href="#why-us" className="hover:text-goldenrod">Why Us</a></li>
+              <li><a href="#services" className="hover:text-goldenrod">Services</a></li>
+              <li><a href="#case-studies" className="hover:text-goldenrod">Case Studies</a></li>
+              <li><a href="#contact" className="hover:text-goldenrod">Contact</a></li>
             </ul>
           </div>
 
@@ -32,9 +32,9 @@
           <div className="mb-7">
             <h4 className="text-lg font-semibold mb-4">Legal</h4>
             <ul className="space-y-2">
-              <li><a href="/privacy" className="hover:text-blue-200">Privacy Policy</a></li>
-              <li><a href="/terms" className="hover:text-blue-200">Terms of Service</a></li>
-              <li><a href="/cookies" className="hover:text-blue-200">Cookie Policy</a></li>
+              <li><a href="/privacy" className="hover:text-goldenrod">Privacy Policy</a></li>
+              <li><a href="/terms" className="hover:text-goldenrod">Terms of Service</a></li>
+              <li><a href="/cookies" className="hover:text-goldenrod">Cookie Policy</a></li>
             </ul>
           </div>
 
@@ -42,10 +42,10 @@
           <div className="mb-7">
             <h4 className="text-lg font-semibold mb-4">Company</h4>
             <ul className="space-y-2">
-              <li><Link href="/about" className="text-gray-600 hover:text-blue-600">About Us</Link></li>
-              <li><a href="/blog" className="hover:text-blue-200">Blog</a></li>
-              <li><a href="/careers" className="hover:text-blue-200">Careers</a></li>
-              <li><a href="/partners" className="hover:text-blue-200">Partners</a></li>
+              <li><Link href="/about" className="hover:text-goldenrod">About Us</Link></li>
+              <li><a href="/blog" className="hover:text-goldenrod">Blog</a></li>
+              <li><a href="/careers" className="hover:text-goldenrod">Careers</a></li>
+              <li><a href="/partners" className="hover:text-goldenrod">Partners</a></li>
             </ul>
           </div>
         </div>
