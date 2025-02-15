@@ -48,7 +48,7 @@
                 </div>
                 <div className="space-y-4">
                   <div>
-                    <h4 className="font-semibold mb-2">📦 What's Included:</h4>
+                    <h4 className="font-semibold mb-2">📦 What&apos;s Included:</h4>
                     <ul className="text-sm list-disc pl-5 space-y-1">
                       {service.included.map((item, index) => (
                         <li key={index}>{item}</li>

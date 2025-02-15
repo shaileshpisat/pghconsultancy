@@ -41,7 +41,7 @@
               </div>
             </div>
             <p className="text-gray-700 mb-4">
-              "{testimonial.quote}"
+            &quot;{testimonial.quote}&quot;
             </p>
             <div className="text-blue-600 font-semibold">→ Read full case study</div>
           </div>
