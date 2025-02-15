@@ -1,10 +1,19 @@
 import Head from 'next/head';
 
 import Hero from '../components/Hero';
+import WhyUs from '../components/WhyUs';
+import HowWeDo from '../components/HowWeDo';
 import Services from '../components/Services';
-import About from '../components/About';
+import CaseStudies from '../components/CaseStudies';
+import DemoRequest from '../components/DemoRequest';
+import Testimonials from '../components/Testimonials';
 import Contact from '../components/Contact';
 import Footer from '../components/Footer';
+import Copyright from '../components/Copyright';
+ 
+
+
+
 
 export default function Home() {
     return (
@@ -18,10 +27,15 @@ export default function Home() {
         <main>
           
           <Hero />
+          <WhyUs />
+          <HowWeDo />
+          <CaseStudies />
           <Services />
-          <About />
+          <DemoRequest />
+          <Testimonials />
           <Contact />
           <Footer />
+          <Copyright  />
         </main>
       </div>
     );

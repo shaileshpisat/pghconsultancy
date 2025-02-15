@@ -1,7 +1,7 @@
  
   // src/components/Services.js
   // import { ClipboardCheckIcon, ShieldCheckIcon, UserGroupIcon, ChartBarIcon } from '@heroicons/react/24/outline';
-  export default function Services() {
+  export default function CaseStudies() {
     const services = [
       {
         title: "Project Project Catalyst",
@@ -18,11 +18,11 @@
     ];
   
     return (
-      <section id="services" className="py-12 bg-white">
+      <section id="services" className="bg-gray-50 py-12">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="text-center">
-            <h2 className="text-3xl font-extrabold text-gray-700">Our Services</h2>
-            <p className="mt-4 text-xl text-gray-600">Comprehensive project management solutions</p>
+            <h2 className="text-3xl font-extrabold text-gray-700">Case Studies</h2>
+            <p className="mt-4 text-xl text-gray-600">See how we helped companies achieve 3x growth in 90 days.</p>
           </div>
           <div className="mt-10 grid grid-cols-1 gap-10 sm:grid-cols-1 lg:grid-cols-3">
             {services.map((service, index) => (
