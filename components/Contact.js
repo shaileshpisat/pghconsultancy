@@ -27,7 +27,7 @@ export default function Contact() {
         setStatus('error');
       }
     } catch (error) {
-      setStatus('error');
+      setStatus('error '+error.message);
     }
   };
 
@@ -43,7 +43,7 @@ export default function Contact() {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="text-center">
           <h2 className="text-3xl font-extrabold text-gray-900">Contact Us</h2>
-          <p className="mt-4 text-xl text-gray-600">Let's discuss your project needs</p>
+          <p className="mt-4 text-xl text-gray-600">Let&apos;s discuss your project needs</p>
         </div>
         <div className="mt-10 max-w-xl mx-auto">
           <form onSubmit={handleSubmit} className="space-y-6">
