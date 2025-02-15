@@ -2,24 +2,24 @@
   // src/components/Services.js
   // import { ClipboardCheckIcon, ShieldCheckIcon, UserGroupIcon, ChartBarIcon } from '@heroicons/react/24/outline';
   export default function HowWeDo() {
-    const services = [
-      {
-        title: "Project Planning",
-        description: "Comprehensive project planning and strategy development"
-      },
-      {
-        title: "Risk Management",
-        description: "Identify and mitigate potential project risks"
-      },
-      {
-        title: "Team Leadership",
-        description: "Expert guidance in team management and leadership"
-      },
-      {
-        title: "Process Optimization",
-        description: "Streamline your project management processes"
-      }
-    ];
+    // const services = [
+    //   {
+    //     title: "Project Planning",
+    //     description: "Comprehensive project planning and strategy development"
+    //   },
+    //   {
+    //     title: "Risk Management",
+    //     description: "Identify and mitigate potential project risks"
+    //   },
+    //   {
+    //     title: "Team Leadership",
+    //     description: "Expert guidance in team management and leadership"
+    //   },
+    //   {
+    //     title: "Process Optimization",
+    //     description: "Streamline your project management processes"
+    //   }
+    // ];
   
     return (
       <section id="how-we-do" className="bg-gray-50 py-20">

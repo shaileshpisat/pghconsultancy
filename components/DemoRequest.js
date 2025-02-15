@@ -2,20 +2,20 @@
   // src/components/Services.js
   // import { ClipboardCheckIcon, ShieldCheckIcon, UserGroupIcon, ChartBarIcon } from '@heroicons/react/24/outline';
   export default function DemoRequest() {
-    const services = [
-      {
-        title: "Project Project Catalyst",
-        description: "Accelerate project delivery with our proven strategies."
-      },
-      {
-        title: "Product Catalyst",
-        description: "Transform your product development lifecycle."
-      },
-      {
-        title: "Agile Synergy",
-        description: "Enhance agility and collaboration across teams."
-      }
-    ];
+    // const services = [
+    //   {
+    //     title: "Project Project Catalyst",
+    //     description: "Accelerate project delivery with our proven strategies."
+    //   },
+    //   {
+    //     title: "Product Catalyst",
+    //     description: "Transform your product development lifecycle."
+    //   },
+    //   {
+    //     title: "Agile Synergy",
+    //     description: "Enhance agility and collaboration across teams."
+    //   }
+    // ];
   
     return (
       <section id="services" className="bg-gray-50 py-12">

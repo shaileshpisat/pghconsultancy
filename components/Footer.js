@@ -1,4 +1,6 @@
   // src/components/Footer.js
+  import Link from "next/link";
+
   export default function Footer() {
     return (
       <footer className="bg-gray-900 text-white py-12">
@@ -40,7 +42,7 @@
           <div className="mb-7">
             <h4 className="text-lg font-semibold mb-4">Company</h4>
             <ul className="space-y-2">
-              <li><a href="/about" className="hover:text-blue-200">About Us</a></li>
+              <li><Link href="/about" className="text-gray-600 hover:text-blue-600">About Us</Link></li>
               <li><a href="/blog" className="hover:text-blue-200">Blog</a></li>
               <li><a href="/careers" className="hover:text-blue-200">Careers</a></li>
               <li><a href="/partners" className="hover:text-blue-200">Partners</a></li>
